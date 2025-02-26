@@ -4,7 +4,7 @@ Two Ph.D. students talk...
 > **Huerts (an experienced Ph.D. student):**  
 > Hey, have you subscribed to the arXiv newsletter yet? It’s a goldmine of cutting-edge research.
 > 
-> **Me (a dummy Ph.D. student):**  
+> **Me (a nooby Ph.D. student):**  
 > Oh, that sounds useful! I’ll subscribe right now!
 > 
 > **[The next day]**
