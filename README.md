@@ -5,6 +5,7 @@ Some (useful?) resources developed during my PhD to have fun and improve my work
 ## Content
 - [My Mail Checker](#my-mail-checker)
 - [Web Monitor](#web-monitor)
+- [To Do](#to-do)
 
 ## My Mail Checker
 
@@ -22,3 +23,7 @@ This script provides an automated web monitoring solution that tracks webpage ch
 > **Quick Tip:** Create a temp folder for webpage snapshots. Use a simple relative path and automate with `cron`, similar to the [my_mail_checker approach](my_mail_checker/README.md).
 
 Dive into the implementation details in [web_monitor/web_monitor.py](web_monitor/web_monitor.py).
+
+## To Do
+- [ ] Paper titles in mail_checker are not correctly saved if they are long
+- [ ] ...
