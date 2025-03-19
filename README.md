@@ -19,6 +19,6 @@ For more information about the mail checker, see the [my_mail_checker/README.md]
 
 This script provides an automated web monitoring solution that tracks webpage changes and dispatches email alerts every 6 hours. By comparing the current webpage content with its previous state, it instantly notifies you of any detected modifications, ensuring you never miss critical updates.
 
-> **Tip:** Create a dedicated temporary folder for storing webpage snapshots. Specify a relative path in the script to enable seamless state comparison.
+> **Quick Tip:** Create a temp folder for webpage snapshots. Use a simple relative path and automate with `cron`, similar to the [my_mail_checker approach](my_mail_checker/README.md).
 
 Dive into the implementation details in [web_monitor/web_monitor.py](web_monitor/web_monitor.py).
