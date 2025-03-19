@@ -34,7 +34,7 @@ Two Ph.D. students talk...
 
 I'm trying to filter out papers that aren't related to my research area. I asked ChatGPT for help with the code using some reference examples, and after a few iterations, this is what I’ve got.
 
-The filtering isn't perfect. It just looks for the word `vehicle` in the title or abstract.
+I have tried to make a good filtering removing unwanted papers (i.e., those that talk about drones, UAVs, underwater vehicles, etc.). Also, HTML has been added to improve readibility.
 
 I’m not a fan of using code I haven’t fully developed or understood, but this works, and I needed it up and running quickly. Feel free to submit any PRs with improvements.
 

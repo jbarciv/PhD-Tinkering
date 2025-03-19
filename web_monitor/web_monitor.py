@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 import os
 import datetime
 
-URL = "https://civ-summerschool.org/#Save-the-date"
+URL = "theURLToCheck.com"
 STATE_FILE = "./tmp/web_monitor_state.txt"  # Stores previous content snapshot
 
 # SMTP Settings (from your existing script)
