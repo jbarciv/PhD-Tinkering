@@ -3,9 +3,11 @@ Some (useful?) resources developed during my PhD to have fun and improve my work
 
 
 ## Content
-- [My Mail Checker](#my-mail-checker)
-- [Web Monitor](#web-monitor)
-- [To Do](#to-do)
+- [PhD-Tinkering](#phd-tinkering)
+  - [Content](#content)
+  - [My Mail Checker](#my-mail-checker)
+  - [Web Monitor](#web-monitor)
+  - [To Do](#to-do)
 
 ## My Mail Checker
 
@@ -25,5 +27,4 @@ This script provides an automated web monitoring solution that tracks webpage ch
 Dive into the implementation details in [web_monitor/web_monitor.py](web_monitor/web_monitor.py).
 
 ## To Do
-- [ ] Paper titles in mail_checker are not correctly saved if they are long
-- [ ] ...
+- [ ] Enjoy PhD 
